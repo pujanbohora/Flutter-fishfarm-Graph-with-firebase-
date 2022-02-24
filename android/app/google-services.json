@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786759238479",
+    "project_id": "chart-5717b",
+    "storage_bucket": "chart-5717b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786759238479:android:74c01393cf57f7a511fb3a",
+        "android_client_info": {
+          "package_name": "com.chart.fish_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786759238479-nbil7u9ho4hcmcjqu9creg95tpf7hntl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_--j70_zCfj5kHCODfOfgMfh3ynrPJI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786759238479-nbil7u9ho4hcmcjqu9creg95tpf7hntl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
